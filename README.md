@@ -26,6 +26,7 @@ This repository contains the source code for an Temperature Management System us
 - **Java EE**
 - **EJB (Enterprise JavaBeans)**
 - **JPA (Java Persistence API)**
+-  **JPQL (Java Persistence Query Language)**
 
 ## Getting Started
 
