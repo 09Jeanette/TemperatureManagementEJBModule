@@ -33,4 +33,4 @@ This repository contains the source code for an Temperature Management System us
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/09Jeanette/TemperatureManagementEJBModule/tree/main
+git clone https://github.com/09Jeanette/TemperatureManagementEJBModule
